@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e2951e</color>
+    <color name="colorPrimaryDark">#eda22f</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#ffc977</color>
+    <color name="child">#9b9997</color>
+    <color name="facebookButton">#3b579d</color>
+    <color name="whiteText">#ffffff</color>
+    <color name="blackText">#000000</color>
+</resources>

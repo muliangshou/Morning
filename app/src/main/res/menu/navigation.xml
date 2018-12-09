@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/calendar"
+        android:title="@string/title_schdule" />
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/clock"
+        android:title="@string/title_today" />
+
+    <item
+        android:id="@+id/navigation_achievement"
+        android:icon="@drawable/trophy"
+        android:title="@string/title_achievement" />
+
+    <item
+        android:id="@+id/navigation_social"
+        android:icon="@drawable/friends_icon"
+        android:title="@string/title_social" />
+
+
+</menu>

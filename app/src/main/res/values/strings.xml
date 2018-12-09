@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Morning</string>
+    <string name="title_today">Today</string>
+    <string name="title_achievement">Achievements</string>
+    <string name="title_social">Social</string>
+    <string name="title_schdule">Schedule</string>
+    <string name="todo_view_header">Here are your activities for today</string>
+    <string name="achievement_tasks_moved">Move to Left</string>
+    <string name="achievement_tasks_swiped">on Swiped</string>
+</resources>

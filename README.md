@@ -1,11 +1,4 @@
-# finalproject-fa18-group18-fa18
-finalproject-fa18-group18-fa18 created by GitHub Classroom
-
-## Figma Lo-Fi Prototype
-https://www.figma.com/file/KtqMdZKtAF0si3XaXoCxuxDi/Good-Morning
-
-## Detailed User Flow by Vishnu (Nov.15)
-https://drive.google.com/file/d/1F-PJGbs8UMSoI1T-MnZCwNQN-pmovFjb/view?usp=sharing
-
-## Project Task Management (WIP)
-https://trello.com/b/uhtMeBPC/morning-cs160-project
+# Morning
+People with busy or irregular schedules, such as students, freelancers, and stay-at-home parents, find it difficult to make time to improve mental health and maintain self-care routines. Our application aims to solve this problem by allowing users to schedule self-care routines into their day, giving users a sense of reward through showing achievements, helping them build good habits, and allowing them to also schedule activities with their friends, making self-care fun and social.
+# Credits
+Special thanks to Frank Yang, Nicole Chen, Cindy Jin, and Vishnu Kumar.
